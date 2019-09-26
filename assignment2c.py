@@ -1,0 +1,1 @@
+print('Sum range of numbers:', sum(range(1,31)))
